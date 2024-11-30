@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+    color: darkblue;
+}
+h1, p{
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+button{
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+}
